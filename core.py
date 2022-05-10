@@ -4,4 +4,6 @@ for i in range(100):
     print('lol')
 
 for a in range(12):
-    print(a + "lol")
+    print(a + "lo")
+    print("ss")
+    
